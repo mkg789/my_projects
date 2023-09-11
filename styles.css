@@ -30,6 +30,10 @@ img{
     padding-top: 15px;
     border-end-end-radius: 15px;
 }
+.working{
+    font: size 8px;
+    color: blue;
+}
 .proj-items{
     background-image: url("https://t3.ftcdn.net/jpg/02/51/98/62/360_F_251986281_fHQMOosksLtFecwkOsMOE9Dmx1YVyTbU.jpg");
 }
