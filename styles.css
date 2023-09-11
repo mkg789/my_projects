@@ -26,9 +26,9 @@ h1{
 }
 img{
     height: 150px;
-    width: 200px;
+    width: auto;
     padding-top: 15px;
-    border-end-end-radius: 15px;
+    border-radius: 15px;
 }
 .working{
     font: size 8px;
